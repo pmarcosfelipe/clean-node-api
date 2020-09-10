@@ -1,7 +1,5 @@
 {
-  "husky": {
-    "hooks": {
-      "pre-commit": "eslint"
-    }
+  "hooks": {
+    "pre-commit": "eslint"
   }
 }
